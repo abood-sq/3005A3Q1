@@ -4,7 +4,7 @@ import sys
 
 DATABASE = "A3Q1"
 USER = "postgres"
-PASSWORD = "Kuwait$22"
+PASSWORD = "pass"
 HOST = "localhost"
 PORT = "5432"
 
